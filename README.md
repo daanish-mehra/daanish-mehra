@@ -4,7 +4,6 @@ Currently working on:<br>
 •	a metals futures microstructure analytics platform computing order flow imbalance, volatility, and liquidity features via a FastAPI backend<br>
 
 Looking to collaborate on:<br>	•	Hackathons or trading competitions<br>	•	Algorithmic trading projects<br>	•	Research in FinTech<br>
-
 <br>Currently learning:<br>	•	CUDA for GPU acceleration and HPC<br>	•	Optimization for low-latency systems
 
 
